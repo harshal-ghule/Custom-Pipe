@@ -20,7 +20,6 @@ export class UpperCasePipe implements PipeTransform {
         else
         {
           str += value.charAt(i);
-          
         }
         
       }
